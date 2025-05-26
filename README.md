@@ -43,7 +43,7 @@
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/VaishaliA12/SkillUp.git
-cd skillup
+cd SkillUp
 ```
 
 ### 2. Install dependencies:
