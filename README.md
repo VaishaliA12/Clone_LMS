@@ -74,11 +74,9 @@ FRONTEND_URL=http://localhost:5173
 ### 4. Run the Application:
 Frontend
 ```bash
-cd .\client
 npm run dev
 ```
 Backend
 ```bash
-cd .\server
 npm run dev
 ```
