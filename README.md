@@ -49,12 +49,12 @@ cd skillup
 ### 2. Install dependencies:
 Frontend
 ```bash
-cd client
+cd .\client
 npm install
 ```
 Backend
 ```bash
-cd ../server
+cd .\server
 npm install
 ```
 ### 3. Configure Environment Variables:
@@ -74,9 +74,11 @@ FRONTEND_URL=http://localhost:5173
 ### 4. Run the Application:
 Frontend
 ```bash
+cd .\client
 npm run dev
 ```
 Backend
 ```bash
+cd .\server
 npm run dev
 ```
